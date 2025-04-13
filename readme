@@ -7,21 +7,6 @@ It has powerful features like:
 - Parameterized tests (to test with multiple inputs)
 - Plugins and integrations (for example with coverage tools)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 A framework is a collection of tools, libraries, conventions that help us build and structure our software more efficiently.
 A framework is some software that’s already been developed and is used to help us create our own application. So it’s basically resusable code that provides specific functionality that we can use in our programs. The point of a framework is to avoid reinventing the wheel.
 Let’s say that we need to sort some names alphabetically. If we write the code for this ourselves it wouldn’t be efficient and waste of time. Because there is some code out there that we can use to do this. With frameworks we can focus on our program and not worry about low level stuff.
