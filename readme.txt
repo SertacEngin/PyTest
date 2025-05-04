@@ -22,4 +22,4 @@ PyTest Tutorial (https://www.youtube.com/watch?v=cHYq1MRoyI0)
 
 PyTest has a feature of automatically discovering tests. For example we name a file like “test_EMV” and PyTest will know that there is a test in this file. Or we can do it for functions. For example “test_function1”. PyTest automatically identifies which functions and methods are tests based on their names. PyTest also simplifies the test execution we just run the command “pytest”.
 
-
+https://www.youtube.com/watch?v=EgpLj86ZHFQ
